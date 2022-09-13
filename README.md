@@ -1,10 +1,10 @@
-Hi 👋 My name is Sergey Kuleshov👨‍💻
+Hi. I'm Sergey Kuleshov
 ==================================
 
 .NET Developer
 ---------------------------------------------
 
-* 🌍  I'm based in Treviso (Italy🍕)
+* 🌍  I'm based in Treviso (Italy)
 * ✉️  You can contact me at [code4builder@gmail.com](mailto:code4builder@gmail.com)
 
 
