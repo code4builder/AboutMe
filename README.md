@@ -5,7 +5,9 @@ Hi. I'm Sergey Kuleshov
 ---------------------------------------------
 
 * 🌍  I'm based in Treviso (Italy)
+* 💼 My portfolio site: www.bim-s.it
 * ✉️  You can contact me at [code4builder@gmail.com](mailto:code4builder@gmail.com)
+
 
 
 ### Programming languages
