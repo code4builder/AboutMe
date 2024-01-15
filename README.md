@@ -15,7 +15,7 @@ Hi. I'm Sergey Kuleshov
 <b>Relational Databases</b>: mostly SQL Server, but also MySQL and PostgreSQL </br> 
 <b>Frontend</b>: HTML and CSS + Bootstrap. Very basic knowledge of ajax requests and JavaScript</br> 
 <b>API</b>: REST API, REVIT API </br> 
-<b>Deoployment</b>: Docker. Deployment on Azure Cloud. Certified Azure Fundamentals </br> 
+<b>Deployment</b>: Docker. Deployment on Azure Cloud. Certified Azure Fundamentals </br> 
 <b>Microservices</b></br> 
 <b>GIT versioning</b></br> 
 
