@@ -8,17 +8,26 @@ Hi. I'm Sergey Kuleshov
 * 💼 My portfolio site: www.bim-s.it
 * ✉️  You can contact me at [info@bim-s.it](mailto:info@bim-s.it)
 
+<b>Summary</b>: NO VISA REQUIRED. I am a Full-Stack Software Developer with 3 years of commercial experience. My main stack is .NET technologies and frameworks. I quickly adapt to new projects, and I always try to deeply understand the business logic of the project. I am passionate about continuous learning and enhancing my skills as a full-stack developer. In the coming year, I am dedicated to mastering JavaScript and diving into one of the TypeScript frameworks, such as React or Angular, to strengthen my proficiency and stay at the forefront of modern web development. REMOTE WORK
 
+### Key skills/Core qualifications/Hard skills:
+<b>.NET</b>: C#, ASP .NET Core (Web API, MVC and Blazor Server), WPF with MVVM design pattern, LINQ, Entity Framework and .NET Core </br> 
+<b>Relational Databases</b>: mostly SQL Server, but also MySQL and PostgreSQL </br> 
+<b>Frontend</b>: HTML and CSS + Bootstrap. Very basic knowledge of ajax requests and JavaScript</br> 
+<b>API</b>: REST API, REVIT API </br> 
+<b>Deoployment</b>: Docker. Deployment on Azure Cloud. Certified Azure Fundamentals </br> 
+<b>Microservices</b></br> 
+<b>GIT versioning</b></br> 
 
-### Programming languages
+### EDUCATION
+<b>Moscow State University of Civil Engineering (MSUCE)</b> </br> 
+Master’s Degree in Thermomechanical Engineering (2004 - 2009) </br> 
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+### CERTIFICATION/COURSES/LICENSES 
+Azure Fundamentals – 2022 - Microsoft </br> 
+SQL - The Complete Developer's Guide (MySQL, PostgreSQL) – 2022 – Udemy </br> 
+The Windows Presentation Foundation (WPF) Guide – 2022 - Udemy </br>
 
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Css](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-
-### DB
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+### ADDITIONAL INFORMATION
+<b>Languages: Russian (native), English (C1) and Italian (C1) </b> </br>
+Marathon Runner: finisher of 4 international marathons
