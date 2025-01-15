@@ -8,12 +8,12 @@ Hi. I'm Sergey Kuleshov
 * 💼 My portfolio site: www.bim-s.it
 * ✉️  You can contact me at [info@bim-s.it](mailto:info@bim-s.it)
 
-<b>Summary</b>: NO VISA REQUIRED. I am a Full-Stack Software Developer with more than 3 years of commercial experience. My main stack is .NET technologies and frameworks. I quickly adapt to new projects, and I always try to deeply understand the business logic of the project. I am passionate about continuous learning and enhancing my skills as a full-stack developer. In the coming year, I am dedicated to mastering JavaScript and diving into one of the TypeScript frameworks, such as React or Angular, to strengthen my proficiency and stay at the forefront of modern web development. REMOTE WORK
+<b>Summary</b>: NO VISA REQUIRED. I am a Full-Stack Software Developer with 4 years of commercial experience. My main stack is .NET technologies and frameworks. I quickly adapt to new projects, and I always try to deeply understand the business logic of the project. I am passionate about continuous learning and enhancing my skills as a full-stack developer. REMOTE WORK
 
 ### Key skills/Core qualifications/Hard skills:
-<b>.NET</b>: C#, ASP .NET Core (Web API, MVC and Blazor Server), WPF with MVVM design pattern, LINQ, Entity Framework and .NET Core </br> 
+<b>.NET</b>: C#, ASP .NET Core (Web API, MVC, Blazor Server and Blazor WASM), WPF with MVVM design pattern, LINQ, Entity Framework and .NET Core </br> 
 <b>Relational Databases</b>: mostly SQL Server, but also MySQL and PostgreSQL </br> 
-<b>Frontend</b>: HTML and CSS + Bootstrap. JavaScript Very basic knowledge of ajax requests and JavaScript</br> 
+<b>Frontend</b>: JavaScript, TypeScrpt and Angular. HTML and CSS + Bootstrap.</br> 
 <b>API</b>: REST API, REVIT API </br> 
 <b>Deployment</b>: Docker and docker-compose. Deployment on Azure Cloud. Certified Azure Fundamentals </br> 
 <b>Microservices</b></br> 
